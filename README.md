@@ -1,5 +1,5 @@
 ## implementation procedure
-Visit https://dialogflow.com/,
+Visit https://dialogflow.com/
 Login with any gmail account,
 create 'weatherbot' named agent and train intents,
 install ngrok , flask , mysql and  mysqldb on your terminal(ubuntu),(or)we can install all set in windows also,
